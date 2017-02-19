@@ -1,3 +1,5 @@
+#This is a test comment
+
 # http://inventwithpython.com/extra/dragon2.py
 
 import random
